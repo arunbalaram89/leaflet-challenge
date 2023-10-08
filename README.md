@@ -18,7 +18,7 @@ Information presented in geoJSON format (dictionary format)
 Web scraping used to search the properties for magnitude and depth. This allowed to get an in depth look at the properties of each earthquake (geometry, properties, type)
 The popups were created to show the location of the earthquake and what date and time it occured. 
 Legend created to visualize the magnitude of the earthquake
-
+The view of the maps were visualized using Street Map and the Topographic Map as well. Toggling between the map could be done by clicking which view user wants. 
 
 # Installation
 Visual Studio Code
